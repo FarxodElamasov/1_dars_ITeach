@@ -72,7 +72,6 @@ ul li a {
     background: #8643DC;
     border-radius: 100px;
     border: none;
-
 }
 
 .title {
@@ -107,8 +106,6 @@ ul li a {
     background: url(./img/Polygon-1-copy-2\ 1.png);
     background-repeat: no-repeat;
 }
-
-
 
 .imgcard_1 {
     padding-left: 21px;
@@ -160,7 +157,6 @@ ul li a {
     font-size: 24px;
     line-height: 32px;
     color: #25202F;
-
 }
 
 .ota_img_div {
@@ -172,38 +168,30 @@ ul li a {
 
 .img_section2 {
     width: 540px;
-    /* height: 427px; */
-
 }
+
 .img_section2:hover {
     width: 540px;
-    /* height: 427px; */
     background: #eef4f1;
     border: 1px solid #cefcb0;
     border-radius: 10px;
     box-shadow: 2px 2px 10px rgb(94, 93, 93);
-    
-}
-.katta_imglar{
-width: 100%;
-
 }
 
+.katta_imglar {
+    width: 100%;
+}
 
 .sarlavha_section1 {
     width: 1120px;
     margin: auto;
     padding-bottom: 30px;
-
 }
-
 
 .sarlavha_section3 {
     width: 1120px;
     margin: auto;
     padding-bottom: 77px;
-
-
 }
 
 .sar_section3 {
@@ -349,6 +337,144 @@ width: 100%;
     border-radius: 10px;
     box-shadow: 2px 2px 10px black;
 }
-.section4{
+
+.section4 {
     padding-bottom: 60px;
+}
+
+.section5 {
+    width: 1120px;
+    margin: auto;
+}
+
+.father_section5 {
+    width: 1120px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.title_section5 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-family: 'Red Hat Display', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    width: 512px;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 52px;
+    color: #21232D;
+}
+
+.mail_title {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-family: 'Red Hat Display', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    text-decoration-line: underline;
+    text-transform: lowercase;
+    color: #8643DC;
+}
+
+.form1 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 25px;
+}
+
+.input1 {
+    padding-top: 20px;
+    padding-bottom: 14px;
+    margin-bottom: 12px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid #DAD2E3;
+    font-family: 'Red Hat Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    color: #7f7a85;
+}
+
+.input2 {
+    padding-top: 20px;
+    padding-bottom: 14px;
+    margin-bottom: 12px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid #DAD2E3;
+    font-family: 'Red Hat Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    color: #7f7a85;
+}
+
+.input3 {
+    padding-top: 20px;
+    padding-bottom: 14px;
+    margin-bottom: 30px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid #DAD2E3;
+    font-family: 'Red Hat Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    color: #7f7a85;
+}
+
+.submit {
+    width: 200px;
+    height: 60px;
+    left: 165px;
+    top: 4387px;
+    background: #8643DC;
+    border-radius: 100px;
+    border: none;
+    color: #fff;
+}
+
+.footerand {
+    width: 1120px;
+    margin: auto;
+}
+
+.footer_title {
+    padding-top: 100px;
+    padding-bottom: 25px;
+    font-family: 'Red Hat Display';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 48px;
+    text-align: center;
+    color: #21232D;
+}
+
+.son_div_img1 {
+    background: url(./img/Polygon-1-copy-2\ 2back.png);
+    background-repeat: no-repeat;
+    padding-bottom: 50px;
+    padding-right: 55px;
+}
+
+.img_move {
+    padding-top: 16px;
+    padding-left: 15px;
+}
+
+.father_div_img1 {
+    display: flex;
+    justify-content: center;
+    padding-left: 30px;
 }
